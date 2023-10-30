@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "gIEdsKIXxwVSlPPeZTUKQ3HtHxT4f0dftPdUn+aHyx8=",
+  "Source": "SecureAggregationAPI",
+  "BasePath": "_content/SecureAggregationAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

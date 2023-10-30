@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "gg2LByxK7HsJnL5gbt+D6hWZWp/eGHxH65cprIwgUth6wf9YUUCIz1hoeFtqDz/tn6ykKc7HkSIwsu1KBh0D4A==",
+  "success": true,
+  "projectFilePath": "/Users/vitusgirelli/Documents/Softwareudvikling/Books/5. semester/Security 1/Assignments/Assignment Two/SecureAggregationAPI/SecureAggregationAPI.csproj",
+  "expectedPackageFiles": [
+    "/Users/vitusgirelli/.nuget/packages/microsoft.aspnetcore.openapi/7.0.0/microsoft.aspnetcore.openapi.7.0.0.nupkg.sha512",
+    "/Users/vitusgirelli/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/vitusgirelli/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/vitusgirelli/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "/Users/vitusgirelli/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "/Users/vitusgirelli/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "/Users/vitusgirelli/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
